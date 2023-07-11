@@ -1,9 +1,9 @@
 -- Active: 1689063114787@@127.0.0.1@3306@world
-DROP DATABASE IF EXISTS lesson_3;
+DROP DATABASE IF EXISTS Seminar_3;
 
-CREATE DATABASE IF NOT EXISTS lesson_3;
+CREATE DATABASE IF NOT EXISTS Seminar_3;
 
-USE lesson_3;
+USE Seminar_3;
 
 -- "Персонал"
 
